@@ -2,10 +2,10 @@
 
 [cite_start]Sou estudante de **Estatística** e **Análise e Desenvolvimento de Sistemas** em Fortaleza, Ceará[cite: 6, 34, 41]. Meu foco é analisar dados, e com base neles, desenvolver soluções tecnológicas.
 
-🔭 **No que estou trabalhando atualmente:**
-- [cite_start]Desenvolvimento de plataformas para **automatização e limpeza de dados** usando Machine Learning e Streamlit[cite: 37].
-- [cite_start]Pesquisas estatísticas sobre mobilidade urbana e análise de métricas[cite: 39, 40].
-- [cite_start]Sistemas de gestão (CRUD) em Java[cite: 43].
+**Minhas principais habilidades técnicas são:**
+- Linguagens de programação: Python, R, SQL e Java.
+    - Pandas, Scikit-learn, Matplotlib, Streamlit, Quarto
+- Análise de dados.
 
 🛠 **Minhas Ferramentas:**
 - [cite_start]**Linguagens:** Python, R, Java, SQL[cite: 20, 24, 43].
